@@ -1,0 +1,955 @@
+{
+  "project_info": {
+    "project_number": "74374119863",
+    "firebase_url": "https://kidsschool-949c1.firebaseio.com",
+    "project_id": "kidsschool-949c1",
+    "storage_bucket": "kidsschool-949c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:af15fd2c9b4b5581aee832",
+        "android_client_info": {
+          "package_name": "com.apni.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:2863d2171bcef631aee832",
+        "android_client_info": {
+          "package_name": "com.apsplp.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:271746cf289ab290aee832",
+        "android_client_info": {
+          "package_name": "com.assamiti.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:ea3623bd23bcf5caaee832",
+        "android_client_info": {
+          "package_name": "com.blcpss.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:bc9858a2d7714ca1aee832",
+        "android_client_info": {
+          "package_name": "com.dav.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:884cb3380256d080aee832",
+        "android_client_info": {
+          "package_name": "com.davbki.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:d6128da9525e9be5aee832",
+        "android_client_info": {
+          "package_name": "com.davplp.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:603a7e315d7ca3dcaee832",
+        "android_client_info": {
+          "package_name": "com.davsnr.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:fe0fa2f445d6c9ecaee832",
+        "android_client_info": {
+          "package_name": "com.davthg.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:845a17556ae37507aee832",
+        "android_client_info": {
+          "package_name": "com.dhaarus.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:628197c22ac6a528aee832",
+        "android_client_info": {
+          "package_name": "com.drambedkar.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:59222efd67bbdb23aee832",
+        "android_client_info": {
+          "package_name": "com.driving.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:498c458e79d26a5eaee832",
+        "android_client_info": {
+          "package_name": "com.fatima.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:588258b88493e37baee832",
+        "android_client_info": {
+          "package_name": "com.ibnuumar.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:5444efd5e691d6e1aee832",
+        "android_client_info": {
+          "package_name": "com.itisadiya.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:ccccdeb98d9cc4f2aee832",
+        "android_client_info": {
+          "package_name": "com.kakopathariti.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:93fdcd5c8231ef18aee832",
+        "android_client_info": {
+          "package_name": "com.kms.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-1qamr7uk57tpj4hbhhjk666bqvkq4hn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kms.mspeducare.app",
+            "certificate_hash": "ef8ccd49e57354b96130101079aad4a1cb1bf4db"
+          }
+        },
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:e28280abc6cbab5faee832",
+        "android_client_info": {
+          "package_name": "com.kmscbse.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:0e95c86f083a0021aee832",
+        "android_client_info": {
+          "package_name": "com.maharishi.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:222ef944645039a6aee832",
+        "android_client_info": {
+          "package_name": "com.mmgoi.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:4a349a548ef7f8f3aee832",
+        "android_client_info": {
+          "package_name": "com.mspgroups.kidsschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:66f232f4239ed892aee832",
+        "android_client_info": {
+          "package_name": "com.pmci.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:ea44469601187a7caee832",
+        "android_client_info": {
+          "package_name": "com.shanthi.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:bc80a70dd7954190aee832",
+        "android_client_info": {
+          "package_name": "com.srivenkateswaraa.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:26c338af021d8e5daee832",
+        "android_client_info": {
+          "package_name": "com.ssvmpreschool.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74374119863:android:79f3d8e0c8bac249aee832",
+        "android_client_info": {
+          "package_name": "com.zing.mspeducare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZJVtSqZdDBF8cCVbla2vLbygs34McOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74374119863-0oge8mkkq4q14napda1e86kgk519udbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74374119863-dpan4p7945pcc93j8mq2ktrob3d9c9g0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pmci.mspeducare.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
