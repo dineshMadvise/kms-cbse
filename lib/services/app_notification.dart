@@ -8,6 +8,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:msp_educare_demo/audio_play_service.dart';
+import 'package:msp_educare_demo/utils/app_config.dart';
 import 'package:msp_educare_demo/utils/const_utils.dart';
 import 'package:msp_educare_demo/utils/shared_preference_utils.dart';
 
@@ -85,8 +86,8 @@ class AppNotificationHandler {
     print('Handling a background message ${message.messageId}');
   }
 
-  static AndroidNotificationChannel channel = const AndroidNotificationChannel(
-      'KMS', // id
+  static AndroidNotificationChannel channel =  AndroidNotificationChannel(
+      AppConfig.appName, // id
       'High Importance Notifications', // title
       description: 'MSP Educare', // description
       importance: Importance.high,
@@ -162,9 +163,9 @@ class AppNotificationHandler {
         notification.hashCode,
         notification.title,
         notification.body,
-        const NotificationDetails(
+         NotificationDetails(
           android: AndroidNotificationDetails(
-            'KMS', // id
+            AppConfig.appName, // id
             'High Importance Notifications', // title
             channelDescription: 'MSP Educare',
             // description

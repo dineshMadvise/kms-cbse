@@ -1,7 +1,7 @@
 // ignore_for_file: constant_identifier_names
 
 class VariableUtils {
-  static const appName = 'KONGU';
+
 
   /// ERROR MESSAGE
   static const somethingWantWrong = 'Something went wrong,Please try again';

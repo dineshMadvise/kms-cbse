@@ -10,6 +10,7 @@ import 'package:msp_educare_demo/utils/route_utils.dart';
 import 'package:msp_educare_demo/utils/shared_preference_utils.dart';
 
 import 'bindings/login_binding.dart';
+import 'utils/app_config.dart';
 import 'utils/variable_utils.dart';
 
 void main() async {
@@ -56,7 +57,7 @@ class _MyAppState extends State<MyApp> {
       onTap: () => FocusManager.instance.primaryFocus?.unfocus(),
       child: GetMaterialApp(
         debugShowCheckedModeBanner: false,
-        title: VariableUtils.appName,
+        title: AppConfig.appName,
         initialRoute: initialRoute(),
         getPages: RouteUtils.routePages,
         initialBinding: BindingsBuilder(() => AuthBinding()),
